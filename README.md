@@ -46,8 +46,9 @@ The purpose of this project is to use the #tags and other twitter components to 
 
 1. Clone this repo 
    ```
-     $ git clone https://github.com/arcado10/Twitter-Sentiment-Analysis.git
+     $ git clone https://github.com/cipheraxat/Twitter-Sentiment-Analysis.git
      $ cd Twitter-Sentiment-Analysis
+     $ jupyter-notebook
    ```
 2. Data processing/transformation scripts are being kept [here](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/Covid-19%20Tweets%20(4).ipynb)
 3. Data set in zip format . [here](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/Covid_Tweet_India.zip)
